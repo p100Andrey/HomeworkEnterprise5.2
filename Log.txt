@@ -1,0 +1,4 @@
+logBefore() is running! Thu Nov 17 23:06:11 EET 2016, It's : calculate
+******
+logBefore() is running! Thu Nov 17 23:06:28 EET 2016, It's : calculate
+******
